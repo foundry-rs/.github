@@ -1,6 +1,6 @@
 # Foundry
 
-<img src="../assets/logo.png" alt="Foundry logo" align="right" width="120" />
+<img src="./logo.png" alt="Foundry logo" align="right" width="120" />
 
 Welcome to the Foundry organization.
 
