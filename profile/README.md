@@ -1,20 +1,21 @@
-<img src=".github/logo.png" alt="Foundry logo" align="right" width="120" />
-
 # Foundry
 
-![Github Actions][gha-badge] [![Telegram Chat][tg-badge]][tg-url] [![Telegram Support][tg-support-badge]][tg-support-url]
+<img src="../assets/logo.png" alt="Foundry logo" align="right" width="120" />
 
-[gha-badge]: https://img.shields.io/github/actions/workflow/status/foundry-rs/foundry/test.yml?branch=master
-[tg-badge]: https://img.shields.io/endpoint?color=neon&logo=telegram&label=chat&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Ffoundry_rs
-[tg-url]: https://t.me/foundry_rs
-[tg-support-badge]: https://img.shields.io/endpoint?color=neon&logo=telegram&label=support&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Ffoundry_support
-[tg-support-url]: https://t.me/foundry_support
+Welcome to the Foundry organization.
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 
-Foundry consists of:
+You can install Foundry on any platform in seconds via:
 
--   [**Forge**](./forge): Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   [**Cast**](./cast): Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   [**Anvil**](./anvil): Local Ethereum node, akin to Ganache, Hardhat Network.
--   [**Chisel**](./chisel): Fast, utilitarian, and verbose solidity REPL.
+```
+curl -L https://foundry.paradigm.xyz | bash
+```
+
+Then, in a new terminal run: `foundryup`.
+
+That's it! If everything goes well, you will now have four binaries at your disposal: forge, cast, anvil, and chisel.
+
+See the [Foundry Book](https://book.getfoundry.sh/) for more.
+
+Foundry development is spearheaded by [Paradigm](https://github.com/paradigmxyz) and the Rust Ethereum open-source community.
