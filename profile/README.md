@@ -1,6 +1,6 @@
 # Foundry
 
-<img src="./profile/logo.png" alt="Foundry logo" align="right" width="120" />
+<img src="./logo.png" alt="Foundry logo" align="right" width="120" />
 
 Welcome to the Foundry organization.
 
@@ -16,6 +16,6 @@ Then, in a new terminal run: `foundryup`.
 
 That's it! If everything goes well, you will now have four binaries at your disposal: forge, cast, anvil, and chisel.
 
-See the [Foundry Book](https://book.getfoundry.sh/) for more.
+See the [Foundry Docs](https://getfoundry.sh/) for more.
 
 Foundry development is spearheaded by [Paradigm](https://github.com/paradigmxyz) and the Rust Ethereum open-source community.
