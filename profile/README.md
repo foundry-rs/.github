@@ -19,3 +19,5 @@ That's it! If everything goes well, you will now have four binaries at your disp
 See the [Foundry Docs](https://getfoundry.sh/) for more.
 
 Foundry development is spearheaded by [Paradigm](https://github.com/paradigmxyz) and the Rust Ethereum open-source community.
+
+Amazing how my life changed since i started using foundry framework. It made my work easier and faster!!! Just testing how forking works on github nothing much to say.
